@@ -1,0 +1,20 @@
+{
+  "name": "@types/shikicinema",
+  "version": "0.1.0",
+  "description": "Type Definitions for Shikicinema - free anime videos aggregator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Palus-Somni-Team/shikicinema-types.git"
+  },
+  "keywords": [
+    "typescript",
+    "shikicinema",
+    "anime"
+  ],
+  "author": "Smarthardard",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Palus-Somni-Team/shikicinema-types/issues"
+  },
+  "homepage": "https://github.com/Palus-Somni-Team/shikicinema-types#readme"
+}
